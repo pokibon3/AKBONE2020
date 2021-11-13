@@ -7,3 +7,7 @@ AKBONE2020をArduino portable環境で使うためのファイル一式です。
 - ATMlib
 - picovaders
 - AKBON2020動作確認用スケッチ一式
+
+使い方は、以下のGitHub Pagesを参照してください。
+
+https://pokibon3.github.io/AKBONE_picovaders/#0
